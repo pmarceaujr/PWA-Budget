@@ -40,9 +40,9 @@ ONce the application is running, enter entries for your budget items.
 
 ## **Media** **Links**
 
-##
+## See it in ACTION!!!!
 
-![media file 1](./includes/images/Screencast)
+![Link to the Demo clip:](./images/screencast-budget.gif)
 
 ## **Required**
 
@@ -63,7 +63,8 @@ No other contributors at this time.
 
 ## **Deployed** **Link**
 
-Deployed:
+[Link to GIT repo](https://github.com/pmarceaujr/PWA-Budget)<br>
+[Deployed App Link](https://pmarceaujr-mobile-budget.herokuapp.com/)
 
 ## **License**
 
